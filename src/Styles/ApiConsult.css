@@ -1,0 +1,17 @@
+.container{
+  margin: 5px;
+  width: 250px;
+  height: 150px;
+  float: left;
+
+  background-color: #756867;
+  color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+
+
+}
+
+.maxContainer{
+  margin-left: 7%
+}
